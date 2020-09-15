@@ -1,4 +1,23 @@
+
 body {
-    background-color: aqua;
+    font-family: Roboto;
     text-align: center;
+    color:white;
+    background-color: black;
+}
+
+h1{
+    font-family: Roboto;
+    font-size: 70px;
+    text-emphasis: none;
+    text-decoration-style: wavy;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+a{
+    font-family: Roboto;
+    color:white;
+    padding-right: 10px;
+    padding-left: 10px;
 }
