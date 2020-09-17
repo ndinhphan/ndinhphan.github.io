@@ -3,7 +3,12 @@ body {
     font-family: Roboto;
     text-align: center;
     color:white;
+    background-color: black;
     background-image: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url(../images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .main{
@@ -27,10 +32,12 @@ body {
     border-width: 2px;
     text-decoration: none;
 }
+
 .button:hover{
     background: white;
     color:black;
 }
+
 h1{
     font-family: Roboto;
     font-size: 90px;
@@ -43,6 +50,7 @@ h2{
     font-size: 20px;
     font-weight: 100;
 }
+
 a{
     font-family: Roboto;
     color:white;
