@@ -48,6 +48,14 @@
     background-color: #4CAF50;
 }
 
+.list ul li a.current{
+    display: block;
+    padding: 8px 16px;
+    color: white;
+    text-decoration: none;
+    background-color: #4CAF50;
+}
+
 .content{
     margin-left: 300px;
     padding:20px;
